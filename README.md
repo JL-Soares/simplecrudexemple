@@ -8,8 +8,6 @@ Um site funcional para cadastro, login e edição de dados de usuários, desenvo
 Este projeto tem como objetivo o desenvolvimento de um CRUD (Cadastro, Leitura, Atualização, Exclusão) simples de contas de usuário.
 O usuário pode se cadastrar, fazer login e editar suas próprias informações.
 
-# Principais funcionalidades:
-
 # Funcionalidades
 - Autenticação: Cadastro e Login via Node.js.
 - Gerenciamento: Edição de dados do usuário após login.
